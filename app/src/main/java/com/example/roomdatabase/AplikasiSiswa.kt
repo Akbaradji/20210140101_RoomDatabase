@@ -6,7 +6,7 @@ import com.example.roomdatabase.repositori.ContainerDataApp
 
 class AplikasiSiswa : Application() {
     /**
-     * App Container instance digunakan oleh kelas-kelas lainnya untuk mendapatkan dependensi
+     * App Container instance digunakan oleh kelas-kelas lainnya untuk mendapatkan dependensii
      */
     lateinit var container: ContainerApp
 
